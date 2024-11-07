@@ -9,7 +9,7 @@ const Link = ({ href, className, children, ...props }) => (
   </a>
 );
 
-const footer = ({ border }) => {
+const Footer = ({ border }) => {
   return (
     <footer>
       <div className="mt-32">
@@ -83,4 +83,4 @@ const footer = ({ border }) => {
   );
 };
 
-export default footer;
+export default Footer;
