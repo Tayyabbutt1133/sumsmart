@@ -5,7 +5,7 @@ const Hero = () => {
   return (
       <header className="w-full flex justify-center items-center flex-col">
           <nav className="flex justify-between items-center w-full mb-10 pt-3">
-              <h1 className="font-lexend font-bold text-3xl object-contain w-28">SumSmart</h1>
+              <h1 className="font-lexend font-bold text-3xl object-contain w-28">Sum<span className="orange_gradient">Smart</span></h1>
               <button
               type="button"
                   onClick={() => window.open('https://github.com/Tayyabbutt1133/sumsmart')}

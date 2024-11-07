@@ -1,5 +1,6 @@
 import './App.css'
 import Demo from './components/Demo'
+import Footer from './components/footer'
 import Hero from './components/hero'
 
 
@@ -13,7 +14,8 @@ function App() {
 
       <div className='app'>
         <Hero />
-        <Demo/>
+        <Demo />
+        <Footer/>
       </div>
 
    </main>
