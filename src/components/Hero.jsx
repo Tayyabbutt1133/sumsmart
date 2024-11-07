@@ -9,7 +9,7 @@ const Hero = () => {
               <button
               type="button"
                   onClick={() => window.open('https://github.com/Tayyabbutt1133/sumsmart')}
-              className="font-lexend flex items-center justify-center gap-2 black_btn transition duration-300">
+              className="font-lexend flex items-center justify-center gap-2 black_btn ease-in-out transition duration-300">
                   <FaGithub/>
                   Github
               </button>
