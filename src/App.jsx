@@ -1,7 +1,7 @@
 import './App.css'
 import Demo from './components/Demo'
 import Footer from './components/Footer.jsx'
-import Hero from './components/hero'
+import Hero from './components/Hero.jsx'
 
 
 function App() {
