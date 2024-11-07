@@ -1,6 +1,6 @@
 import './App.css'
 import Demo from './components/Demo'
-import Footer from './components/footer'
+import Footer from './components/Footer.jsx'
 import Hero from './components/hero'
 
 
