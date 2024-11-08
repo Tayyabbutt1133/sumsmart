@@ -58,7 +58,7 @@ const Footer = ({ border }) => {
               </Link>
               <Link
                 className="flex items-center justify-center text-[#DA552F] transition hover:text-[#b54626]"
-                href="#0"
+                href="https://www.producthunt.com/posts/article-summarizer"
                 aria-label="Product Hunt"
               >
                 <FaProductHunt size={28} />
